@@ -14,5 +14,5 @@
 - сохранение отчета в файл со всеми данными.<br>
 # Contact
 E-mail: alex@walrider.ru<br>
-This project is a personal development, please respect its philosophy and don’t use it for evil purposes!
+This project is a personal development, please respect its philosophy and don’t use it for evil purposes!<br>
 Questionarre is under GNU GPL v3.
