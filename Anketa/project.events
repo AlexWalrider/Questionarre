@@ -1,0 +1,1668 @@
+a:1:{s:5:"form1";a:175:{s:7:"button8";a:1:{s:11:"onmousedown";s:542:"$butnum = 1;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:7:"button9";a:1:{s:11:"onmousedown";s:542:"$butnum = 2;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button10";a:1:{s:11:"onmousedown";s:542:"$butnum = 3;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button11";a:1:{s:11:"onmousedown";s:542:"$butnum = 4;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button12";a:1:{s:11:"onmousedown";s:542:"$butnum = 5;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button13";a:1:{s:11:"onmousedown";s:542:"$butnum = 6;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button14";a:1:{s:11:"onmousedown";s:542:"$butnum = 7;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button15";a:1:{s:11:"onmousedown";s:542:"$butnum = 8;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button16";a:1:{s:11:"onmousedown";s:542:"$butnum = 9;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button17";a:1:{s:11:"onmousedown";s:547:"$butnum = 10;
+$idenis = "sb";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+
+
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button18";a:1:{s:11:"onmousedown";s:354:"$butnum = 1;
+$alldat = c("op")->text;
+$allcli = c("opc")->text;
+$itertab = c("op1")->text;
+c("op")->text = $alldat+$butnum;
+c("opc")->text = $allcli+1;
+if($allcli == 0)
+{
+c("opa")->text = $butnum;
+}
+else{
+c("opa")->text = $alldat / $allcli;
+}
+c("op1")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button19";a:1:{s:11:"onmousedown";s:542:"$butnum = 2;
+$idenis = "op";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button20";a:1:{s:11:"onmousedown";s:542:"$butnum = 3;
+$idenis = "op";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button21";a:1:{s:11:"onmousedown";s:542:"$butnum = 4;
+$idenis = "op";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button22";a:1:{s:11:"onmousedown";s:542:"$butnum = 5;
+$idenis = "op";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button23";a:1:{s:11:"onmousedown";s:542:"$butnum = 6;
+$idenis = "op";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button24";a:1:{s:11:"onmousedown";s:542:"$butnum = 7;
+$idenis = "op";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button25";a:1:{s:11:"onmousedown";s:542:"$butnum = 8;
+$idenis = "op";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button26";a:1:{s:11:"onmousedown";s:542:"$butnum = 9;
+$idenis = "op";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button27";a:1:{s:11:"onmousedown";s:543:"$butnum = 10;
+$idenis = "op";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button28";a:1:{s:11:"onmousedown";s:542:"$butnum = 1;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button29";a:1:{s:11:"onmousedown";s:542:"$butnum = 2;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button30";a:1:{s:11:"onmousedown";s:542:"$butnum = 3;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button31";a:1:{s:11:"onmousedown";s:542:"$butnum = 4;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button32";a:1:{s:11:"onmousedown";s:542:"$butnum = 5;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button33";a:1:{s:11:"onmousedown";s:542:"$butnum = 6;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button34";a:1:{s:11:"onmousedown";s:542:"$butnum = 7;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button35";a:1:{s:11:"onmousedown";s:542:"$butnum = 8;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button36";a:1:{s:11:"onmousedown";s:542:"$butnum = 9;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button37";a:1:{s:11:"onmousedown";s:543:"$butnum = 10;
+$idenis = "on";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button38";a:1:{s:11:"onmousedown";s:542:"$butnum = 1;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button39";a:1:{s:11:"onmousedown";s:542:"$butnum = 2;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button40";a:1:{s:11:"onmousedown";s:542:"$butnum = 3;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button41";a:1:{s:11:"onmousedown";s:542:"$butnum = 4;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button42";a:1:{s:11:"onmousedown";s:542:"$butnum = 5;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button43";a:1:{s:11:"onmousedown";s:542:"$butnum = 6;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button44";a:1:{s:11:"onmousedown";s:542:"$butnum = 7;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button45";a:1:{s:11:"onmousedown";s:542:"$butnum = 8;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button46";a:1:{s:11:"onmousedown";s:542:"$butnum = 9;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button47";a:1:{s:11:"onmousedown";s:543:"$butnum = 10;
+$idenis = "sp";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button48";a:1:{s:11:"onmousedown";s:542:"$butnum = 1;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button49";a:1:{s:11:"onmousedown";s:542:"$butnum = 2;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button50";a:1:{s:11:"onmousedown";s:542:"$butnum = 3;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button51";a:1:{s:11:"onmousedown";s:542:"$butnum = 4;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button52";a:1:{s:11:"onmousedown";s:542:"$butnum = 5;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button53";a:1:{s:11:"onmousedown";s:542:"$butnum = 6;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button54";a:1:{s:11:"onmousedown";s:542:"$butnum = 7;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button55";a:1:{s:11:"onmousedown";s:542:"$butnum = 8;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button56";a:1:{s:11:"onmousedown";s:542:"$butnum = 9;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button57";a:1:{s:11:"onmousedown";s:543:"$butnum = 10;
+$idenis = "ld";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button58";a:1:{s:11:"onmousedown";s:542:"$butnum = 1;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button59";a:1:{s:11:"onmousedown";s:542:"$butnum = 2;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button60";a:1:{s:11:"onmousedown";s:542:"$butnum = 3;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button61";a:1:{s:11:"onmousedown";s:542:"$butnum = 4;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button62";a:1:{s:11:"onmousedown";s:542:"$butnum = 5;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button63";a:1:{s:11:"onmousedown";s:542:"$butnum = 6;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button64";a:1:{s:11:"onmousedown";s:542:"$butnum = 7;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button65";a:1:{s:11:"onmousedown";s:542:"$butnum = 8;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button66";a:1:{s:11:"onmousedown";s:542:"$butnum = 9;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button67";a:1:{s:11:"onmousedown";s:543:"$butnum = 10;
+$idenis = "vg";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button68";a:1:{s:11:"onmousedown";s:542:"$butnum = 1;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button69";a:1:{s:11:"onmousedown";s:542:"$butnum = 2;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button70";a:1:{s:11:"onmousedown";s:542:"$butnum = 3;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button71";a:1:{s:11:"onmousedown";s:542:"$butnum = 4;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button72";a:1:{s:11:"onmousedown";s:542:"$butnum = 5;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button73";a:1:{s:11:"onmousedown";s:542:"$butnum = 6;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button74";a:1:{s:11:"onmousedown";s:542:"$butnum = 7;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button75";a:1:{s:11:"onmousedown";s:542:"$butnum = 8;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button76";a:1:{s:11:"onmousedown";s:542:"$butnum = 9;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:8:"button77";a:1:{s:11:"onmousedown";s:543:"$butnum = 10;
+$idenis = "rc";
+$fortab = "$idenis$butnum";
+$counterid = "c";
+$forcount = "$idenis$counterid";
+$averageid = "a";
+$foravg = "$idenis$averageid";
+$alldat = c("$idenis")->text;
+$allcli = c("$forcount")->text;
+$itertab = c("$fortab")->text;
+c("$idenis")->text = $alldat+$butnum;
+c("$forcount")->text = $allcli+1;
+if($allcli == 0)
+{
+c("$foravg")->text = $butnum;
+}
+else{
+c("$foravg")->text = $alldat / $allcli;
+}
+c("$fortab")->text = $itertab+1;
+$x = c("edit1")->text;
+$y = c("edit2")->text;
+setCursorPos($x,$y);";}s:3:"sb1";N;s:3:"sb2";N;s:3:"sb3";N;s:3:"sb4";N;s:3:"sb5";N;s:3:"sb6";N;s:3:"sb7";N;s:3:"sb8";N;s:3:"sb9";N;s:4:"sb10";N;s:3:"op1";N;s:3:"op2";N;s:3:"op3";N;s:3:"op4";N;s:3:"op5";N;s:3:"op6";N;s:3:"op7";N;s:3:"op8";N;s:3:"op9";N;s:4:"op10";N;s:3:"on1";N;s:3:"on2";N;s:3:"on3";N;s:3:"on4";N;s:3:"on5";N;s:3:"on6";N;s:3:"on7";N;s:3:"on8";N;s:3:"on9";N;s:4:"on10";N;s:3:"sp1";N;s:3:"sp2";N;s:3:"sp3";N;s:3:"sp4";N;s:3:"sp5";N;s:3:"sp6";N;s:3:"sp7";N;s:3:"sp8";N;s:3:"sp9";N;s:4:"sp10";N;s:3:"ld1";N;s:3:"ld2";N;s:3:"ld3";N;s:3:"ld4";N;s:3:"ld5";N;s:3:"ld6";N;s:3:"ld7";N;s:3:"ld8";N;s:3:"ld9";N;s:4:"ld10";N;s:3:"vg1";N;s:3:"vg2";N;s:3:"vg3";N;s:3:"vg4";N;s:3:"vg5";N;s:3:"vg6";N;s:3:"vg7";N;s:3:"vg8";N;s:3:"vg9";N;s:4:"vg10";N;s:3:"rc1";N;s:3:"rc2";N;s:3:"rc3";N;s:3:"rc4";N;s:3:"rc5";N;s:3:"rc6";N;s:3:"rc7";N;s:3:"rc8";N;s:3:"rc9";N;s:4:"rc10";N;s:3:"sbc";N;s:3:"sba";N;s:3:"opa";N;s:3:"ona";N;s:3:"spa";N;s:3:"lda";N;s:3:"vga";N;s:3:"rca";N;s:3:"opc";N;s:3:"onc";N;s:3:"spc";N;s:3:"ldc";N;s:3:"vgc";N;s:3:"rcc";N;s:2:"sb";N;s:2:"op";N;s:2:"on";N;s:2:"sp";N;s:2:"ld";N;s:2:"vg";N;s:2:"rc";N;s:6:"label9";N;s:7:"label10";N;s:7:"label11";N;s:7:"label12";N;s:7:"label13";N;s:7:"label14";N;s:7:"label15";N;s:7:"label19";N;s:7:"button1";a:1:{s:11:"onmousedown";s:5170:"$sbnum = c ("sbc")->text;
+$sbavg = c ("sba")->text;
+$sbavg = substr("$sbavg", 0, 4);
+$opnum = c ("opc")->text;
+$opavg = c ("opa")->text;
+$opavg = substr("$opavg", 0, 4);
+$onnum = c ("onc")->text;
+$onavg = c ("ona")->text;
+$onavg = substr("$onavg", 0, 4);
+$spnum = c ("spc")->text;
+$spavg = c ("spa")->text;
+$spavg = substr("$spavg", 0, 4);
+$ldnum = c ("ldc")->text;
+$ldavg = c ("lda")->text;
+$ldavg = substr("$ldavg", 0, 4);
+$vgnum = c ("vgc")->text;
+$vgavg = c ("vga")->text;
+$vgavg = substr("$vgavg", 0, 4);
+$rcnum = c ("rcc")->text;
+$rcavg = c ("rca")->text;
+$rcavg = substr("$rcavg", 0, 4);
+///headers//////////////
+$sbhead = "Служба бронирования. Средний балл - $sbavg. Количество проголосовавших - $sbnum\n";
+$ophead = "\nОтдел приема и размещения. Средний балл - $opavg. Количество - $opnum\n";
+$onhead = "\nОбслуживание номеров. Средний балл - $onavg. Количество проголосовавших - $onnum\n";
+$sphead = "\nСлужба питания. Средний балл - $spavg. Количество проголосовавших - $spnum\n";
+$ldhead = "\nЛДО. Средний балл - $ldavg. Количество проголосовавших - $ldnum\n";
+$vghead = "\nВГЛ. Средний балл - $vgavg. Количество проголосовавших - $vgnum\n";
+$rchead = "\nРазвлекательный центр. Средний балл - $rcavg. Количество проголосовавших - $rcnum\n";
+//////sb///////
+$sb1 = c ("sb1")->text;
+$sb2 = c ("sb2")->text;
+$sb3 = c ("sb3")->text;
+$sb4 = c ("sb4")->text;
+$sb5 = c ("sb5")->text;
+$sb6 = c ("sb6")->text;
+$sb7 = c ("sb7")->text;
+$sb8 = c ("sb8")->text;
+$sb9 = c ("sb9")->text;
+$sb10 = c ("sb10")->text;
+//////op///////
+$op1 = c ("op1")->text;
+$op2 = c ("op2")->text;
+$op3 = c ("op3")->text;
+$op4 = c ("op4")->text;
+$op5 = c ("op5")->text;
+$op6 = c ("op6")->text;
+$op7 = c ("op7")->text;
+$op8 = c ("op8")->text;
+$op9 = c ("op9")->text;
+$op10 = c ("op10")->text;
+//////on///////
+$on1 = c ("on1")->text;
+$on2 = c ("on2")->text;
+$on3 = c ("on3")->text;
+$on4 = c ("on4")->text;
+$on5 = c ("on5")->text;
+$on6 = c ("on6")->text;
+$on7 = c ("on7")->text;
+$on8 = c ("on8")->text;
+$on9 = c ("on9")->text;
+$on10 = c ("on10")->text;
+//////sp///////
+$sp1 = c ("sp1")->text;
+$sp2 = c ("sp2")->text;
+$sp3 = c ("sp3")->text;
+$sp4 = c ("sp4")->text;
+$sp5 = c ("sp5")->text;
+$sp6 = c ("sp6")->text;
+$sp7 = c ("sp7")->text;
+$sp8 = c ("sp8")->text;
+$sp9 = c ("sp9")->text;
+$sp10 = c ("sp10")->text;
+//////ld///////
+$ld1 = c ("ld1")->text;
+$ld2 = c ("ld2")->text;
+$ld3 = c ("ld3")->text;
+$ld4 = c ("ld4")->text;
+$ld5 = c ("ld5")->text;
+$ld6 = c ("ld6")->text;
+$ld7 = c ("ld7")->text;
+$ld8 = c ("ld8")->text;
+$ld9 = c ("ld9")->text;
+$ld10 = c ("ld10")->text;
+//////vg///////
+$vg1 = c ("vg1")->text;
+$vg2 = c ("vg2")->text;
+$vg3 = c ("vg3")->text;
+$vg4 = c ("vg4")->text;
+$vg5 = c ("vg5")->text;
+$vg6 = c ("vg6")->text;
+$vg7 = c ("vg7")->text;
+$vg8 = c ("vg8")->text;
+$vg9 = c ("vg9")->text;
+$vg10 = c ("vg10")->text;
+//////rc///////
+$rc1 = c ("rc1")->text;
+$rc2 = c ("rc2")->text;
+$rc3 = c ("rc3")->text;
+$rc4 = c ("rc4")->text;
+$rc5 = c ("rc5")->text;
+$rc6 = c ("rc6")->text;
+$rc7 = c ("rc7")->text;
+$rc8 = c ("rc8")->text;
+$rc9 = c ("rc9")->text;
+$rc10 = c ("rc10")->text;
+///////write//////////
+$sbwrite = "$sbhead\n10 баллов - $sb10\n9 баллов - $sb9\n8 баллов - $sb8\n7 баллов - $sb7\n6 баллов - $sb6\n5 баллов - $sb5\n4 балла - $sb4\n3 балла - $sb3\n2 балла - $sb2\n1 балл - $sb1\n";
+$opwrite = "$ophead\n10 баллов - $op10\n9 баллов - $op9\n8 баллов - $op8\n7 баллов - $op7\n6 баллов - $op6\n5 баллов - $op5\n4 балла - $op4\n3 балла - $op3\n2 балла - $op2\n1 балл - $op1\n";
+$onwrite = "$onhead\n10 баллов - $on10\n9 баллов - $on9\n8 баллов - $on8\n7 баллов - $on7\n6 баллов - $on6\n5 баллов - $on5\n4 балла - $on4\n3 балла - $on3\n2 балла - $on2\n1 балл - $on1\n";
+$spwrite = "$sphead\n10 баллов - $sp10\n9 баллов - $sp9\n8 баллов - $sp8\n7 баллов - $sp7\n6 баллов - $sp6\n5 баллов - $sp5\n4 балла - $sp4\n3 балла - $sp3\n2 балла - $sp2\n1 балл - $sp1\n";
+$ldwrite = "$ldhead\n10 баллов - $ld10\n9 баллов - $ld9\n8 баллов - $ld8\n7 баллов - $ld7\n6 баллов - $ld6\n5 баллов - $ld5\n4 балла - $ld4\n3 балла - $ld3\n2 балла - $ld2\n1 балл - $ld1\n";
+$vgwrite = "$vghead\n10 баллов - $vg10\n9 баллов - $vg9\n8 баллов - $vg8\n7 баллов - $vg7\n6 баллов - $vg6\n5 баллов - $vg5\n4 балла - $vg4\n3 балла - $vg3\n2 балла - $vg2\n1 балл - $vg1\n";
+$rcwrite = "$rchead\n10 баллов - $rc10\n9 баллов - $rc9\n8 баллов - $rc8\n7 баллов - $rc7\n6 баллов - $rc6\n5 баллов - $rc5\n4 балла - $rc4\n3 балла - $rc3\n2 балла - $rc2\n1 балл - $rc1\n";
+$writeDEPT = "$sbwrite$opwrite$onwrite$spwrite$ldwrite$vgwrite$rcwrite";
+//////////memos///////
+$resh = c ("memo1")->text;
+$sotr = c ("memo2")->text;
+$why = c ("memo3")->text;
+$pozh = c ("memo4")->text;
+$reshwrite = "\nПроблемные вопросы решены соответствующими службами: \n$resh\n";
+$sotrwrite = "\nВыделяют в анкете сотрудников: \n$sotr\n";
+$whywrite = "\nПочему выбрали именно Санаторий Саки? \n$why\n";
+$pozhwrite = "\nПредложения и пожелания: \n$pozh\n";
+$memowrite = "$reshwrite$sotrwrite$whywrite$pozhwrite";
+$fullwrite = "$writeDEPT\n$memowrite";
+$fp = fopen("save.txt", "w");
+fwrite($fp, $fullwrite);
+fclose($fp); ";}s:7:"button2";a:1:{s:11:"onmousedown";s:16:"Run("save.txt");";}s:5:"edit2";N;s:6:"timer1";a:1:{s:7:"ontimer";s:18:"Run ("shell.vbs");";}s:6:"timer2";a:1:{s:7:"ontimer";s:119:"$x = cursor_pos_x();
+$y = cursor_pos_y();
+
+c("statusBar1")->simpleText = "Position: x = " . $x . "," . " y = " . $y;";}s:8:"--fmedit";a:1:{s:6:"onshow";s:27:"c("timer1")->enable = true;";}}}
