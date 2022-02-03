@@ -16,6 +16,6 @@
 - исключение двойного клика – после нажатия на балл курсор меняет положение на указанные координаты<br>
 - сохранение отчета в файл со всеми данными.<br>
 # Contact
-E-mail: alex@walrider.ru<br>
+E-mail: alex@awmail.biz<br>
 This project is a personal development, please respect its philosophy and don’t use it for evil purposes!<br>
 Questionarre is under GNU GPL v3.
